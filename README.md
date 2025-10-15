@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**shapovalovalena/shapovalovalena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Lena Shapovalova
 
-Here are some ideas to get you started:
+I'm a **Front-End Developer** passionate about building responsive web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+- React, Redux Toolkit, JavaScript ES6+
+- HTML, CSS, Figma
+- Git, GitHub
+
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/lena-shapovalova-625571386/))
+
+✨ “Code is like humor. When you have to explain it, it’s bad.”
+
